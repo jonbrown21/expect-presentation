@@ -1,2 +1,2 @@
-# expect-presentation
+# MacAdmins PSU Expect Presentation
 MacAdmins Expect Presentation
