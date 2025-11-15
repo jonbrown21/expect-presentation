@@ -1,10 +1,5 @@
 # MacAdmins PSU Expect Presentation
-![Presentation](https://img.shields.io/badge/Type-Presentation-blueviolet.svg)  
-![Status-Active](https://img.shields.io/badge/Status-Active-brightgreen.svg)  
-![Made for MacAdmins](https://img.shields.io/badge/Audience-macOS%20Admins-orange.svg)  
-![License-MIT](https://img.shields.io/badge/License-MIT-green.svg)  
-![Last Commit](https://img.shields.io/github/last-commit/jonbrown21/expect-presentation)  
-![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)
+![Presentation](https://img.shields.io/badge/Type-Presentation-blueviolet.svg)  ![Status-Active](https://img.shields.io/badge/Status-Active-brightgreen.svg)  ![Made for MacAdmins](https://img.shields.io/badge/Audience-macOS%20Admins-orange.svg)  ![License-MIT](https://img.shields.io/badge/License-MIT-green.svg)  ![Last Commit](https://img.shields.io/github/last-commit/jonbrown21/expect-presentation)  ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)
 
 A series of scripts that were used at the 2024 Mac Admins PSU Expect Presentation. 
 
